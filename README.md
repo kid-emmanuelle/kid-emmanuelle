@@ -144,6 +144,7 @@ I made projects in order to learning and improving my skills...
 
 
 ## Socials
+
 <p align="left">
   <a
     href="https://www.github.com/kid-emmanuelle"
@@ -190,7 +191,7 @@ I made projects in order to learning and improving my skills...
   </a>
 </p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
