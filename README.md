@@ -196,7 +196,6 @@ I made projects in order to learning and improving my skills...
 
 | <a href="http://www.github.com/kid-emmanuelle"><img src="https://github-readme-stats.vercel.app/api?username=kid-emmanuelle&show_icons=true&count_private=true&title_color=16FCD1&text_color=ffffff&icon_color=16FCD1&bg_color=22272e&hide_border=true" alt="kid-emmanuelle's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kid-emmanuelle&layout=compact&theme=buefy&hide_border=true&bg_color=22272e&title_color=16FCD1&text_color=ffffff" /></a> |
 | ------------- | ------------- |
-
-<a href="http://www.github.com/kid-emmanuelle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kid-emmanuelle&stroke=ffffff&background=22272e&ring=16FCD1&fire=16FCD1&currStreakNum=ffffff&currStreakLabel=16FCD1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+| <a href="http://www.github.com/kid-emmanuelle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kid-emmanuelle&stroke=ffffff&background=22272e&ring=16FCD1&fire=16FCD1&currStreakNum=ffffff&currStreakLabel=16FCD1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> |
 
 Thanks for stopping by and checking out my profile. Hopefully we will be able to cooperate together in the near future!
