@@ -203,7 +203,7 @@ I made projects in order to learning and improving my skills...
   <td colspan="2"></td>
  </tr>
  <tr>
-  <td colspan="2" align="center"><a href="http://www.github.com/kid-emmanuelle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kid-emmanuelle&stroke=ffffff&background=22272e&ring=16FCD1&fire=16FCD1&currStreakNum=ffffff&currStreakLabel=16FCD1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></td>
+  <td colspan="2"><a href="http://www.github.com/kid-emmanuelle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kid-emmanuelle&stroke=ffffff&background=22272e&ring=16FCD1&fire=16FCD1&currStreakNum=ffffff&currStreakLabel=16FCD1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></td>
  </tr>
 </table>
 
