@@ -4,7 +4,7 @@ Hello guys, ![](https://user-images.githubusercontent.com/18350557/176309783-078
 I'm an apprenticeship student from `INSA Hauts-de-France`
 ---------------------------------
 
-`A` ...
+`A problem-solver at heart, and coding provides me with the tools to turn ideas into reality. I'm constantly seeking out new challenges and opportunities to learn. My passion for AI and emerging technologies allows me to push the boundaries of what's possible.` ...
 
 * 🌍  I'm based in France
 * 🖥️  See my portfolio and blog website at 
