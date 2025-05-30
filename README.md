@@ -57,11 +57,6 @@ I have implemented projects to learn and improve my skills in software developme
 </p>
 
 ### My GitHub Stats
-<table>
-
- <tr>
-  <td colspan="2"><a href="http://www.github.com/kid-emmanuelle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kid-emmanuelle&stroke=ffffff&background=22272e&ring=16FCD1&fire=16FCD1&currStreakNum=ffffff&currStreakLabel=16FCD1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></td>
- </tr>
-</table>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kid-emmanuelle&theme=highcontrast" alt="GitHub Streak" /></a>
 
 Thanks for stopping by and checking out my profile. Hopefully we will be able to cooperate together in the near future!
