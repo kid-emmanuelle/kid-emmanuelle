@@ -10,9 +10,9 @@ I have implemented projects to learn and improve my skills in software developme
 
 <a href="https://github.com/kid-emmanuelle/notion-empty-trash/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kid-emmanuelle&repo=vintage-travel-portfolio&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kid-emmanuelle&repo=notion-empty-trash&theme=highcontrast" />
   &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kid-emmanuelle&repo=vintage-travel-portfolio&theme=highcontrast" />
 </a>
 
 ### Socials
