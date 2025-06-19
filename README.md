@@ -62,6 +62,6 @@ I have implemented projects to learn and improve my skills in software developme
 </p>
 
 ### My GitHub Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kid-emmanuelle&theme=highcontrast" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=kid-emmanuelle&theme=highcontrast)](https://git.io/streak-stats)
 
 Thanks for stopping by and checking out my profile. Hopefully we will be able to cooperate together in the near future!
