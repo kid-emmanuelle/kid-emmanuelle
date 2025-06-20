@@ -66,7 +66,7 @@ I have implemented projects to learn and improve my skills in software developme
 </p>
 
 ### My GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=kid-emmanuelle&theme=highcontrast)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kid-emmanuelle&theme=highcontrast)](https://git.io/streak-stats)
 
 Thanks for stopping by and checking out my profile. Hopefully we will be able to cooperate together in the near future!
