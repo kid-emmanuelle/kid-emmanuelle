@@ -1,20 +1,19 @@
 ---------------------------------
 
-A problem-solver at heart, and coding provides me with the tools to turn ideas into reality. I'm constantly seeking out new challenges and opportunities to learn. My passion for AI and emerging technologies allows me to push the boundaries of what's possible.
+A problem-solver at heart, and coding provides me with the tools to turn ideas into reality. I'm constantly seeking out new challenges and opportunities. My passion for AI and emerging technologies allows me to push the boundaries of what's possible.
 
-* 🌍  I'm based in France
-* 🖥️  See my portfolio and blog website at https://kid-emmanuelle.github.io/
-* ✉️  You can contact me at [kid.nguyenlenganha@gmail.com](mailto:kid.nguyenlenganha@gmail.com)
+* I'm based in France
+* See my portfolio and blog website at [kid-emmanuelle.vercel.app](https://kid-emmanuelle.vercel.app/)
 
 I have implemented projects to learn and improve my skills in software development and AI.
 
-<a href="https://github.com/kid-emmanuelle/notion-empty-trash/">
+<a href="https://github.com/kid-emmanuelle/vintage-travel-portfolio/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kid-emmanuelle&repo=notion-empty-trash&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kid-emmanuelle&repo=vintage-travel-portfolio&theme=highcontrast" />
 </a>
 &nbsp;
-<a href="https://github.com/kid-emmanuelle/vintage-travel-portfolio/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kid-emmanuelle&repo=vintage-travel-portfolio&theme=highcontrast" />
+<a href="https://github.com/kid-emmanuelle/notion-empty-trash/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kid-emmanuelle&repo=notion-empty-trash&theme=highcontrast" />
 </a>
 
 ### Socials
