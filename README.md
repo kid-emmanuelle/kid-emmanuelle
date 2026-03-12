@@ -12,7 +12,7 @@ I have implemented projects to learn and improve my skills in software developme
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kid-emmanuelle&repo=vintage-travel-portfolio&theme=highcontrast" />
 </a>
 &nbsp;
-<a href="https://github.com/kid-emmanuelle/notion-empty-trash/">
+<a href="https://github.com/M2-ISD-NutriRAG/NutriRAG/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kid-emmanuelle&repo=notion-empty-trash&theme=highcontrast" />
 </a>
 
