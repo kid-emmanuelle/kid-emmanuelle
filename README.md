@@ -7,13 +7,13 @@ A problem-solver at heart, and coding provides me with the tools to turn ideas i
 
 I have implemented projects to learn and improve my skills in software development and AI.
 
-<a href="https://github.com/kid-emmanuelle/vintage-travel-portfolio/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kid-emmanuelle&repo=vintage-travel-portfolio&theme=highcontrast" />
+<a href="https://github.com/M2-ISD-NutriRAG/NutriRAG">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M2-ISD-NutriRAG&repo=NutriRAG&theme=highcontrast" />
 </a>
 &nbsp;
-<a href="https://github.com/M2-ISD-NutriRAG/NutriRAG/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kid-emmanuelle&repo=notion-empty-trash&theme=highcontrast" />
+<a href="https://github.com/kid-emmanuelle/vintage-travel-portfolio/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kid-emmanuelle&repo=vintage-travel-portfolio&theme=highcontrast" />
 </a>
 
 ### Socials
